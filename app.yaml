@@ -4,6 +4,4 @@ env: flex
 runtime_config:
   document_root: phillycyotrack/public
   
-handlers:
--url: https://phillycyotrack.appspot.com/index./Meets/index.php
--script: /Meets/index.php
+
