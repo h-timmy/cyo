@@ -5,5 +5,5 @@ runtime_config:
   document_root: phillycyotrack/public
   
 handlers:
--url:index./Meets/index.php
+-url: /Meets/index.php
 -script: /Meets/index.php
